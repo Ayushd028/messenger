@@ -42,7 +42,7 @@ const Form = () => {
     <div className="form-container">
         <form>
             <div className="form-header">
-                Send message to Acciojob
+                Send message to Ayush Dwivedi
             </div>
             <div className="form-input">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
